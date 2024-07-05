@@ -1,0 +1,7 @@
+name: sum_app
+description: A simple Dart web app to sum two numbers.
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  browser: ^0.10.0
